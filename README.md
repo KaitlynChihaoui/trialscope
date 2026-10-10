@@ -4,7 +4,7 @@
 
 An interactive dashboard for exploring the clinical trial landscape for any condition, built with Python and the public ClinicalTrials.gov API.
 
-**Live demo:** ![TrialScope](https://trialscope-mybydm2qrqkiretv9ha4jl.streamlit.app/)
+**Live demo:** [TrialScope](https://trialscope-mybydm2qrqkiretv9ha4jl.streamlit.app/)
 
 ![Dashboard overview](screenshots/main_dashboard.png)
 
